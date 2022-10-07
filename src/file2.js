@@ -1,3 +1,3 @@
 function example2(){
-    return 0+2;
+    return 2+0;
 }
