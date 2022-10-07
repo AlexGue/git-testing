@@ -1,3 +1,3 @@
 function example3(){
-    return 3*1;
+    return 1*3;
 }
